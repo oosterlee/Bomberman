@@ -1,1 +1,3 @@
-"# Bomberman" 
+# Bomberman
+
+## Project for school
